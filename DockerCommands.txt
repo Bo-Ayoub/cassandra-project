@@ -1,0 +1,3 @@
+docker pull cassandra:latest
+docker run --name cassandra -d -p 9042:9042 cassandra:latest
+docker exec -it cassandra cqlsh

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v/Zo7jrQieUc3p9HIaI5m+lMvnxWGc4wyUfXzXOsMls=",
+  "Source": "cassandra-app",
+  "BasePath": "_content/cassandra-app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
